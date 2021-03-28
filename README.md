@@ -1,4 +1,4 @@
-# Keeper Web App :D
+# Keeper Web App
 
 "Inspired" by Google Keep, this web app was created to allow users to add/remove notes. The web app was implemented using React.js with Material-UI. 
 
